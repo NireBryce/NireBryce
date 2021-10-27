@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @NireBryce
-- 👀 I’m re-learning after years away
-- 🌱 I’m currently learning python3
-- 💞️ I’m looking to collaborate on nothing at the moment unless you randomly want to mentor me via open source
-- 📫 How to reach me twitter
+- 👋 Hi, I’m: @NireBryce
+- 👀 I’m: re-learning after years away
+- 🌱 I’m currently learning: python3
+- 💞️ I’m looking to collaborate on: nothing at the moment
+- 📫 How to reach me: twitter
+
+I'm currently busy so updates are going to be random, and the code is going to be sloppy because I'm attempting to learn through doing.
 
 <!---
 NireBryce/NireBryce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
