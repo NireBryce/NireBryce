@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: python3
 - 💞️ I’m looking to collaborate on: nothing at the moment
 - 📫 How to reach me: twitter
+- https://pronoun.is/they/:or/she
 
 I'm currently busy so updates are going to be random, and the code is going to be sloppier than if I didn't have my hands full with 9 things
 
