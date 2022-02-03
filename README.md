@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: nothing at the moment
 - 📫 How to reach me: twitter
 
-I'm currently busy so updates are going to be random, and the code is going to be sloppy because I'm attempting to learn through doing.
+I'm currently busy so updates are going to be random, and the code is going to be sloppier than if I didn't have my hands full with 9 things
 
 <!---
 NireBryce/NireBryce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
